@@ -11,6 +11,7 @@ const tsf =                 [
                                 ts.getSeconds( )    ,
                             ]
                     .join( '-' );
+// MAKE SURE THAT C/PROGFILES/TESSA IS IN PATH IN ENV VARS
             /*      PLACE
                    THE
                   IMAGES
